@@ -1,29 +1,16 @@
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Github documentation
 
-```markdown
-Syntax highlighted code block
+## Project Summary
+- What: MyWonder is a new platform for big data analytics and visualization
+- Why: Before this new platform come from, create visualizations from massive files need to wait for hours
+- How: By distributing the files on the cloud can improve the visualization efficient
+- Why good: Now our users are now able to easily create visualizations from massive files under 10min, and they can calculate their analytics and summaries from their phones very easily, even before jumping to a meeting
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Wastes
 
-1. Numbered
-2. List
+## Deliverables
 
-**Bold** and _Italic_ and `Code` text
+## Milestone
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jieqiong-pang/DSCI560-HW3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Gantt diagram
