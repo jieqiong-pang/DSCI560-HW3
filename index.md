@@ -22,3 +22,4 @@
 ## Milestone
 
 ## Gantt diagram
+<img src='Gantt Chart.PNG' align="center" width=970>
