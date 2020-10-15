@@ -31,4 +31,3 @@
 
 ## Gantt diagram
 ![image](https://jieqiong-pang.github.io/DSCI560-HW3/Gantt-Chart.png)
-
