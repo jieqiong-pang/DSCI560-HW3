@@ -8,9 +8,10 @@
 
 
 ## Identified Wastes
-- **Skills**: the terminology and contents used in the user interface makes it not very appropriate for demos, and customers don’t understand things like “test visualization”
+- **Skills**: 
+- the terminology and contents used in the user interface makes it not very appropriate for demos, and customers don’t understand things like “test visualization”
 - **Waiting**: CEO call our customer assistance team constantly, which takes time from CEO meetings with clients.
-- **Transport/waiting**: The delivery of customer requirements passes through a number of intermediate departments（designers，developers，backend team),which takes long time to update the customer requirements
+- **waiting**: The delivery of customer requirements passes through a number of intermediate departments（designers，developers，backend team),which takes long time to update the customer requirements
 
 
 ## Deliverables
