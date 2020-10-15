@@ -22,4 +22,5 @@
 ## Milestone
 
 ## Gantt diagram
-<img src='./Gantt-Chart.PNG' align="center" width=970>
+![Gantt-Chart](https://user-images.githubusercontent.com/56018075/96072660-99ca9200-0e59-11eb-955c-a9c989d99c30.png)
+
