@@ -12,9 +12,9 @@
 ### Waiting
 - CEO call our customer assistance team constantly, which takes time from CEO meetings with clients.
 ### Over-Processing
-- Deliver customer requirements multiple times across multiple departments（designers，developers，backend team),which takes long time to update the customer requirements
+- Deliver customer requirements multiple times across multiple departments（designers，developers，backend team),which takes long time to update the customer requirements.
 ### Skills 
-- It is not necessary for everyone need to create a visualization example, which is the waste of human potential
+- It is not necessary for everyone need to create a visualization example, which is the waste of human potential.
 
 
 ## Deliverables
