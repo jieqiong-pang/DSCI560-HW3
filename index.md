@@ -9,7 +9,7 @@
 
 ## Identified Wastes
 ### Skills 
-- It is not essential for everyone need to create a visualization example, which is the waste of human potential
+- It is not necessary for everyone need to create a visualization example, which is the waste of human potential
 ### Waiting
 - CEO call our customer assistance team constantly, which takes time from CEO meetings with clients.
 - The delivery of customer requirements passes through a number of intermediate departments（designers，developers，backend team),which takes long time to update the customer requirements
