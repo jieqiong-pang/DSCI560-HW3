@@ -22,5 +22,5 @@
 ## Milestone
 
 ## Gantt diagram
-![image](https://github.com/jieqiong-pang/DSCI560-HW3/blob/gh-pages/Gantt-Chart.png)
+![image](https://jieqiong-pang.github.io/DSCI560-HW3/Gantt-Chart.png)
 
