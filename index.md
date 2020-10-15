@@ -18,8 +18,15 @@
 
 
 ## Deliverables
+- Simplify terminology and content
+- Separate the testing and production environment
+- Set area to put a 'Note'
+- Create visualization examples
+- Create a PowerPoint
+- Create a Documentation
 
 ## Milestone
+- Give system demos
 
 ## Gantt diagram
 ![image](https://jieqiong-pang.github.io/DSCI560-HW3/Gantt-Chart.png)
