@@ -23,4 +23,5 @@
 
 ## Gantt diagram
 ![Gantt-Chart](https://user-images.githubusercontent.com/56018075/96072660-99ca9200-0e59-11eb-955c-a9c989d99c30.png)
+![image](https://github.com/jieqiong-pang/DSCI560-HW3/blob/gh-pages/Gantt-Chart.png)
 
