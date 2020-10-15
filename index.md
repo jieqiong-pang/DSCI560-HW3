@@ -9,6 +9,7 @@
 
 
 ## Identified Wastes
+
 ### Waiting
 - CEO call our customer assistance team constantly, which takes time from CEO meetings with clients.
 ### Over-Processing
