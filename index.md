@@ -1,4 +1,5 @@
-# Github documentation
+# MyWonder
+
 
 ## Project Summary
 - **What**: MyWonder is a new platform for big data analytics and visualization
