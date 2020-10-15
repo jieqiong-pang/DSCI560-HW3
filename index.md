@@ -1,4 +1,4 @@
-# MyWonder
+# <p align="center">MyWonder</p>
 
 
 ## Project Summary
